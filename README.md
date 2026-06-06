@@ -1,24 +1,24 @@
-<!-- Perfil README - Hamilton Jumbo -->
+<!-- Profile README - Hamilton Jumbo -->
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:2563eb&height=210&section=header&text=Hamilton%20Jumbo&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Automation%20Specialist%20%7C%20AI%20Integrations&descAlignY=58&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Desarrollador+Full+Stack;Automatizaci%C3%B3n+con+n8n+%2B+APIs;Integraciones+con+IA+%2B+CRM;Soluciones+digitales+para+negocios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Automation+with+n8n+%2B+APIs;AI+%2B+CRM+Integrations;Digital+solutions+for+businesses" alt="Typing SVG" />
 </p>
 
-<h2 align="center">Hola, soy Hamilton Jumbo 👋</h2>
+<h2 align="center">Hi, I'm Hamilton Jumbo 👋</h2>
 
 <p align="center">
-  Desarrollo soluciones web, automatizaciones e integraciones con inteligencia artificial para negocios que quieren operar mejor, responder más rápido y escalar sus procesos digitales.
+  I build web solutions, automations, and AI integrations for businesses that want to operate better, respond faster, and scale their digital processes.
 </p>
 
 <p align="center">
-  <a href="https://portafolio-h.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2563EB" />
+  <a href="https://hamiltonjumbo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2563EB" />
   </a>
-  <a href="mailto:hamil.jumbo@gmail.com">
+  <a href="mailto:gerencia@hamiltonjumbo.com">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
   </a>
   <a href="https://www.linkedin.com/in/hamilton-jumbo-b24a97330" target="_blank">
@@ -32,38 +32,38 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
-Soy un desarrollador enfocado en crear soluciones digitales que conectan tecnología con resultados reales de negocio.
+I'm a developer focused on building digital solutions that connect technology with real business results.
 
-Trabajo en proyectos donde combino desarrollo web, automatización, APIs, inteligencia artificial y CRM para ayudar a empresas a optimizar procesos, automatizar tareas repetitivas, mejorar la atención al cliente y convertir datos en acciones útiles.
+I work on projects where I combine web development, automation, APIs, artificial intelligence, and CRM to help companies optimize processes, automate repetitive tasks, improve customer service, and turn data into actionable insights.
 
-Mi enfoque no es solo escribir código, sino construir sistemas que funcionen en escenarios reales: formularios, WhatsApp, CRM, bases de datos, reportes, webhooks, flujos automáticos e integraciones entre plataformas.
+My approach isn't just writing code, but building systems that work in real-world scenarios: forms, WhatsApp, CRM, databases, reports, webhooks, automated workflows, and cross-platform integrations.
 
 ---
 
-## ⚡ En qué me especializo
+## ⚡ What I Specialize In
 
 <table>
   <tr>
     <td width="50%">
-      <h3>🤖 Automatización e IA</h3>
+      <h3>🤖 Automation & AI</h3>
       <ul>
-        <li>Automatizaciones con n8n.</li>
-        <li>Asistentes con inteligencia artificial.</li>
-        <li>Flujos conectados a WhatsApp y CRM.</li>
-        <li>Procesamiento automático de datos.</li>
-        <li>Webhooks e integraciones entre plataformas.</li>
+        <li>Automations with n8n.</li>
+        <li>AI-powered assistants.</li>
+        <li>Workflows connected to WhatsApp and CRM.</li>
+        <li>Automated data processing.</li>
+        <li>Webhooks and cross-platform integrations.</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>💻 Desarrollo Web</h3>
+      <h3>💻 Web Development</h3>
       <ul>
-        <li>Aplicaciones web modernas.</li>
-        <li>Landing pages y portafolios.</li>
-        <li>Interfaces conectadas a APIs.</li>
-        <li>Sistemas internos para negocios.</li>
-        <li>Dashboards y reportes visuales.</li>
+        <li>Modern web applications.</li>
+        <li>Landing pages and portfolios.</li>
+        <li>Interfaces connected to APIs.</li>
+        <li>Internal systems for businesses.</li>
+        <li>Dashboards and visual reports.</li>
       </ul>
     </td>
   </tr>
@@ -71,7 +71,7 @@ Mi enfoque no es solo escribir código, sino construir sistemas que funcionen en
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,postgres,mongodb,mysql,firebase,git,github,vercel,aws,docker,postman,vscode&perline=10" />
@@ -87,50 +87,50 @@ Mi enfoque no es solo escribir código, sino construir sistemas que funcionen en
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
-| Proyecto | Descripción | Enfoque |
+| Project | Description | Focus |
 |---|---|---|
-| Restaurant System | Sistema para gestión de pedidos entre meseros y cocina. | Web App / Backend |
-| Reporting System | Sistema de reportes para análisis de información y toma de decisiones. | Datos / Dashboards |
-| Electronic Invoicing | Integración de facturación electrónica usando servicios cloud. | AWS / APIs |
-| AI WhatsApp Assistant | Asistente conectado a WhatsApp, CRM y automatizaciones. | n8n / GHL / IA |
-| Automation Workflows | Flujos para procesar datos, enviar mensajes y conectar plataformas. | APIs / Webhooks |
+| Restaurant System | System for managing orders between waiters and the kitchen. | Web App / Backend |
+| Reporting System | Reporting system for data analysis and decision-making. | Data / Dashboards |
+| Electronic Invoicing | Electronic invoicing integration using cloud services. | AWS / APIs |
+| AI WhatsApp Assistant | Assistant connected to WhatsApp, CRM, and automations. | n8n / GHL / AI |
+| Automation Workflows | Workflows to process data, send messages, and connect platforms. | APIs / Webhooks |
 
 ---
 
-## 🧩 Soluciones que construyo
+## 🧩 Solutions I Build
 
-- Bots y asistentes con IA para atención y ventas.
-- Flujos automáticos con n8n.
-- Integraciones con GoHighLevel / LeadConnector.
-- Conexiones entre formularios, WhatsApp, CRM y bases de datos.
-- Reportes automáticos para negocios.
-- Automatización de envío de mensajes, imágenes, documentos y datos.
-- Landing pages y sistemas web conectados a procesos reales.
-- Consumo, limpieza y transformación de información desde APIs.
+- AI bots and assistants for customer service and sales.
+- Automated workflows with n8n.
+- Integrations with GoHighLevel / LeadConnector.
+- Connections between forms, WhatsApp, CRM, and databases.
+- Automated reports for businesses.
+- Automated sending of messages, images, documents, and data.
+- Landing pages and web systems connected to real processes.
+- Consuming, cleaning, and transforming data from APIs.
 
 ---
 
-## 📊 Actividad en GitHub
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiltonStJJ&theme=github-compact&hide_border=true&area=true&custom_title=Actividad%20de%20Hamilton%20Jumbo" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamiltonStJJ&theme=github-compact&hide_border=true&area=true&custom_title=Hamilton%20Jumbo%27s%20Activity" />
 </p>
 
 ---
 
-## 🎯 Actualmente estoy enfocado en
+## 🎯 Currently Focused On
 
-- Automatizaciones avanzadas con n8n.
-- Integraciones entre CRM, WhatsApp, APIs y bases de datos.
-- Asistentes inteligentes con IA para atención y ventas.
-- Aplicaciones web conectadas a procesos reales de negocio.
-- Sistemas de reportes automáticos para empresas.
+- Advanced automations with n8n.
+- Integrations between CRM, WhatsApp, APIs, and databases.
+- Intelligent AI assistants for customer service and sales.
+- Web applications connected to real business processes.
+- Automated reporting systems for companies.
 
 ---
 
-## 💬 Filosofía de trabajo
+## 💬 Work Philosophy
 
 ```js
 while (!solution.isReady()) {
@@ -142,19 +142,19 @@ while (!solution.isReady()) {
 ```
 
 <p align="center">
-  <strong>La tecnología tiene más valor cuando resuelve problemas reales.</strong>
+  <strong>Technology is most valuable when it solves real problems.</strong>
 </p>
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <p align="center">
-  <a href="mailto:hamil.jumbo@gmail.com">
-    <img src="https://img.shields.io/badge/hamil.jumbo@gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white&label=Email&labelColor=EA4335" />
+  <a href="mailto:gerencia@hamiltonjumbo.com">
+    <img src="https://img.shields.io/badge/gerencia@hamiltonjumbo.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white&label=Email&labelColor=EA4335" />
   </a>
-  <a href="https://portafolio-h.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/portafolio--h.vercel.app-0F172A?style=for-the-badge&logo=vercel&logoColor=white&label=Portfolio&labelColor=2563EB" />
+  <a href="https://hamiltonjumbo.com" target="_blank">
+    <img src="https://img.shields.io/badge/hamiltonjumbo.com-0F172A?style=for-the-badge&logo=vercel&logoColor=white&label=Portfolio&labelColor=2563EB" />
   </a>
   <a href="https://www.linkedin.com/in/hamilton-jumbo-b24a97330" target="_blank">
     <img src="https://img.shields.io/badge/Hamilton%20Jumbo-0F172A?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=0A66C2" />
